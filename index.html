@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Hello Kitty</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="brilho b1">✦</div>
+<div class="brilho b2">✧</div>
+<div class="brilho b3">✦</div>
+<div class="brilho b4">✧</div>
+<div class="brilho b5">✧</div>
+<div class="brilho b6">✦</div>
+<div class="brilho b7">✧</div>
+<div class="brilho b8">✦</div>
+    <div class="calculadora-kitty">
+        
+  <img src="lacinho.png" alt="Laço Hello Kitty" class="enfeite-lacinho">
+  <img src="lacinho.png" alt="Laço Hello Kitty" class="enfeite-lacinho">
+<div id="visor-fofinho" class="visor">0</div>
+
+        <div class="teclado-fofo">
+            <button class="botao-limpar" onclick="limparVisor()">C</button>
+            <button class="botao-operador" onclick="definirOperacao('/')">÷</button>
+            <button class="botao-operador" onclick="definirOperacao('*')">×</button>
+            <button class="botao-operador" onclick="definirOperacao('-')">-</button>
+
+            <button class="botao-numero" onclick="adicionarNumero('7')">7</button>
+            <button class="botao-numero" onclick="adicionarNumero('8')">8</button>
+            <button class="botao-numero" onclick="adicionarNumero('9')">9</button>
+            <button class="botao-operador" onclick="definirOperacao('+')">+</button>
+
+            <button class="botao-numero" onclick="adicionarNumero('4')">4</button>
+            <button class="botao-numero" onclick="adicionarNumero('5')">5</button>
+            <button class="botao-numero" onclick="adicionarNumero('6')">6</button>
+            <button class="botao-igual" onclick="calcularResultado()">=</button>
+
+            <button class="botao-numero" onclick="adicionarNumero('1')">1</button>
+            <button class="botao-numero" onclick="adicionarNumero('2')">2</button>
+            <button class="botao-numero" onclick="adicionarNumero('3')">3</button>
+            
+            <button class="botao-numero botao-zero" onclick="adicionarNumero('0')">0</button>
+            <button class="botao-numero" onclick="adicionarNumero('.')">,</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
