@@ -1,14 +1,12 @@
-{
-  "short_name": "Calculadora Kitty",
-  "name": "Calculadora da Hello Kitty que a Fooster linda fez",
- "icons": [
+"icons": [
   {
-    "src": "lacinho.png",
+    "src": "icon-192.png",
     "sizes": "192x192",
     "type": "image/png"
   },
   {
-    "src": "lacinho-grande.png",
+    "src": "icon-512.png",
+    "sizes": "512x512",
     "type": "image/png"
   }
-]
+],
