@@ -52,8 +52,8 @@ function calcularResultado() {
         let resultado = eval(expressaoAtual);
         visor.innerText = resultado;
         expressaoAtual = resultado.toString(); 
-    } catch (Invalid) {
-        visor.innerText = 'Invalid';
+    } catch (invalido) {
+        visor.innerText = 'invalido';
         expressaoAtual = '';
         
        
