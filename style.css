@@ -167,7 +167,12 @@ button:active {
         overflow-x: hidden;
         padding: 10px;
     }
-
+    .calculadora {
+        width: 95%; 
+        max-width: 340px;
+        margin: 0 auto;
+    }
+}
 
 
 
