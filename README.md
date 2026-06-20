@@ -16,14 +16,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-<P>Ferramentas:</P>
+<P>Ferramentas de auxilio:</P>
 
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Reddit](https://img.shields.io/badge/REDDIT-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)
 ![Spotify](https://img.shields.io/badge/SPOTIFY-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=black)
-
-<P>Também posso dizer que essa é uma versão melhorada do meu codigo anterior, então se você já viu esse projeto no meu perfil, se acalme, você não está maluco!</P>
 
 <div align="center">
   <p><i>Obrigada por visitar meu projeto! 💖</i></p>
