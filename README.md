@@ -1,7 +1,3 @@
-# <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=120&section=header&animation=twinkling" width="100%" />
-</p>
-
 # <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&height=100&lines=Mimi+math+engine+" alt="Typing SVG" />
 
@@ -32,5 +28,3 @@
 <div align="center">
   <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25pODhwcWF5eDNqdmJ6cXo1ZDVrY20ydW96ZHlkbWszZjVpMzZnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qUIQfddFeDBIPRw2cW/giphy.gif"  />
 </div>
-
-###
