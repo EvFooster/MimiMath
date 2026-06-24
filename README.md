@@ -1,8 +1,9 @@
 # <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&height=100&lines=Mimi+math+engine+" alt="Typing SVG" />
 
-<P>Bem-vindo ao meu projeto MimiMath!</P>
- <P>A ideia aqui é criarmos uma calculadora com um tema fofo usando a minha personagem favorita da vila de sanrio, a Hello Kitty, posso acabar por colocar mais personagens no futuro, mas tudo vai depender de quão dificil pode ser pra me encontrar nas minhas próprias linhas, e o quão animada posso ficar com o resultado</P>
+<h3>Bem-vindo ao meu projeto MimiMath!</h3>
+ <h6> Eu queria um projeto que me desafiasse, mas que também fosse divertido de programar. Escolhi a Hello Kitty para dar vida a essa calculadora e testar minhas habilidades de estilização. Como quero expandir o projeto para outros personagens futuramente, meu maior desafio aqui está sendo manter o código limpo, legível e bem estruturado. É um projeto feito com muito carinho e inúmeras canecas de café.</h6>
+
 
 ---
 <P>Para a construção deste projeto, as seguintes tecnologias foram combinadas:</P>
@@ -28,3 +29,7 @@
 <div align="center">
   <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25pODhwcWF5eDNqdmJ6cXo1ZDVrY20ydW96ZHlkbWszZjVpMzZnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qUIQfddFeDBIPRw2cW/giphy.gif"  />
 </div>
+
+Se o código quebrar, não surte! Respire, tome uma água e 
+  lembre-se de que cada erro resolvido é um aprendizado. 
+  A Hello Kitty acredita no seu potencial (e no seu CSS)
