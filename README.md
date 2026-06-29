@@ -29,7 +29,3 @@
 <div align="center">
   <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25pODhwcWF5eDNqdmJ6cXo1ZDVrY20ydW96ZHlkbWszZjVpMzZnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qUIQfddFeDBIPRw2cW/giphy.gif"  />
 </div>
-
-Se o código quebrar, não surte! Respire, tome uma água e 
-  lembre-se de que cada erro resolvido é um aprendizado. 
-  A Hello Kitty acredita no seu potencial (e no seu CSS)
